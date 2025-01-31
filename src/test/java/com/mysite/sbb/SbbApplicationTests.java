@@ -105,4 +105,6 @@ class SbbApplicationTests {
 					q.setSubject("수정된 제목");
 					this.questionRepository.save(q);
 				  }
+
+				  // 테스트
 }
